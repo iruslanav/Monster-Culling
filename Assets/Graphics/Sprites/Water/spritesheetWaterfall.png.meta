@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: a2af3e9efa47bd14e8bbc13bf20a0ffe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4587079083930816996
+    second: spritesheetWaterfall_0
+  - first:
+      213: 7323772127715448017
+    second: spritesheetWaterfall_1
+  - first:
+      213: 3314284187216585021
+    second: spritesheetWaterfall_2
+  - first:
+      213: 3305190456442630495
+    second: spritesheetWaterfall_3
+  - first:
+      213: 5500047713449816367
+    second: spritesheetWaterfall_4
+  - first:
+      213: -7492034667970195156
+    second: spritesheetWaterfall_5
+  - first:
+      213: -94616002851843202
+    second: spritesheetWaterfall_6
+  - first:
+      213: -4924917687702217745
+    second: spritesheetWaterfall_7
+  - first:
+      213: -835988417148386368
+    second: spritesheetWaterfall_8
+  - first:
+      213: -6354368845183782539
+    second: spritesheetWaterfall_9
+  - first:
+      213: -4632150710093267963
+    second: spritesheetWaterfall_10
+  - first:
+      213: -3298819502437767991
+    second: spritesheetWaterfall_11
+  - first:
+      213: 4173741504862262652
+    second: spritesheetWaterfall_12
+  - first:
+      213: -2399680423532439821
+    second: spritesheetWaterfall_13
+  - first:
+      213: -6264845657014950086
+    second: spritesheetWaterfall_14
+  - first:
+      213: 6943514454174920608
+    second: spritesheetWaterfall_15
+  - first:
+      213: -7834749013461775242
+    second: spritesheetWaterfall_16
+  - first:
+      213: 8111601991300092710
+    second: spritesheetWaterfall_17
+  - first:
+      213: -1505868578700100286
+    second: spritesheetWaterfall_18
+  - first:
+      213: -4343113898598402749
+    second: spritesheetWaterfall_19
+  - first:
+      213: 6894525760439157211
+    second: spritesheetWaterfall_20
+  - first:
+      213: 3534531819415017050
+    second: spritesheetWaterfall_21
+  - first:
+      213: 3844420323544040110
+    second: spritesheetWaterfall_22
+  - first:
+      213: -5833619063143337547
+    second: spritesheetWaterfall_23
+  - first:
+      213: -5494920923749167705
+    second: spritesheetWaterfall_24
+  - first:
+      213: 1979791358020707917
+    second: spritesheetWaterfall_25
+  - first:
+      213: 88084794119634492
+    second: spritesheetWaterfall_26
+  - first:
+      213: -6038160368112610405
+    second: spritesheetWaterfall_27
+  - first:
+      213: 4285329178481119034
+    second: spritesheetWaterfall_28
+  - first:
+      213: 5063462686758139033
+    second: spritesheetWaterfall_29
+  - first:
+      213: 931867929815185634
+    second: spritesheetWaterfall_30
+  - first:
+      213: 526005823715857463
+    second: spritesheetWaterfall_31
+  - first:
+      213: -2771815419254051390
+    second: spritesheetWaterfall_32
+  - first:
+      213: -7328454852031415285
+    second: spritesheetWaterfall_33
+  - first:
+      213: -4369128113594747941
+    second: spritesheetWaterfall_34
+  - first:
+      213: 8356995416146412279
+    second: spritesheetWaterfall_35
+  - first:
+      213: 5701097605764707701
+    second: spritesheetWaterfall_36
+  - first:
+      213: 3041869034963783919
+    second: spritesheetWaterfall_37
+  - first:
+      213: -6765792330423147579
+    second: spritesheetWaterfall_38
+  - first:
+      213: -5105129293243031011
+    second: spritesheetWaterfall_39
+  - first:
+      213: 1309331723405988814
+    second: spritesheetWaterfall_40
+  - first:
+      213: 5906443403876012474
+    second: spritesheetWaterfall_41
+  - first:
+      213: -676477066438667308
+    second: spritesheetWaterfall_42
+  - first:
+      213: 3188749364111760455
+    second: spritesheetWaterfall_43
+  - first:
+      213: -5209206359838426736
+    second: spritesheetWaterfall_44
+  - first:
+      213: -9137976405335267694
+    second: spritesheetWaterfall_45
+  - first:
+      213: -6050724592009200900
+    second: spritesheetWaterfall_46
+  - first:
+      213: -6836193943560049093
+    second: spritesheetWaterfall_47
+  - first:
+      213: -4786138097628462178
+    second: spritesheetWaterfall_48
+  - first:
+      213: 665286581149391747
+    second: spritesheetWaterfall_49
+  - first:
+      213: 796157390152009203
+    second: spritesheetWaterfall_50
+  - first:
+      213: -559040142461903789
+    second: spritesheetWaterfall_51
+  - first:
+      213: 1481475868422455083
+    second: spritesheetWaterfall_52
+  - first:
+      213: 2737048827630918977
+    second: spritesheetWaterfall_53
+  - first:
+      213: -4781201103589054626
+    second: spritesheetWaterfall_54
+  - first:
+      213: 8934374405861738932
+    second: spritesheetWaterfall_55
+  - first:
+      213: 4191396684372039016
+    second: spritesheetWaterfall_56
+  - first:
+      213: 8587315148428902989
+    second: spritesheetWaterfall_57
+  - first:
+      213: -5273258305495977668
+    second: spritesheetWaterfall_58
+  - first:
+      213: 6070985117239576068
+    second: spritesheetWaterfall_59
+  - first:
+      213: -7139039727207885748
+    second: spritesheetWaterfall_60
+  - first:
+      213: 279001200858586437
+    second: spritesheetWaterfall_61
+  - first:
+      213: 4473516867813700502
+    second: spritesheetWaterfall_62
+  - first:
+      213: 4828297105069243963
+    second: spritesheetWaterfall_63
+  - first:
+      213: -2660046377041676817
+    second: spritesheetWaterfall_64
+  - first:
+      213: -4484257558004245055
+    second: spritesheetWaterfall_65
+  - first:
+      213: 6591320733029774420
+    second: spritesheetWaterfall_66
+  - first:
+      213: -1170128011770823793
+    second: spritesheetWaterfall_67
+  - first:
+      213: 1883866066340723110
+    second: spritesheetWaterfall_68
+  - first:
+      213: 9163453910465892374
+    second: spritesheetWaterfall_69
+  - first:
+      213: 2732013561402587024
+    second: spritesheetWaterfall_70
+  - first:
+      213: -3652523376429860595
+    second: spritesheetWaterfall_71
+  - first:
+      213: -5310780377326903269
+    second: spritesheetWaterfall_72
+  - first:
+      213: -3794202932682306604
+    second: spritesheetWaterfall_73
+  - first:
+      213: 8707793334363666555
+    second: spritesheetWaterfall_74
+  - first:
+      213: 5111489216908420105
+    second: spritesheetWaterfall_75
+  - first:
+      213: -4466169290072467627
+    second: spritesheetWaterfall_76
+  - first:
+      213: -611617668369754114
+    second: spritesheetWaterfall_77
+  - first:
+      213: 2934269929576558022
+    second: spritesheetWaterfall_78
+  - first:
+      213: -2467823160513091628
+    second: spritesheetWaterfall_79
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesheetWaterfall_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1eeda560eb6750c0800000000000000
+      internalID: -4587079083930816996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetWaterfall_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 300
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4d26872f343a560800000000000000
+      internalID: 7323772127715448017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetWaterfall_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 300
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d312dbf88e3befd20800000000000000
+      internalID: 3314284187216585021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetWaterfall_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 300
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51364f55356edd20800000000000000
+      internalID: 3305190456442630495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetWaterfall_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 300
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2130ef3148145c40800000000000000
+      internalID: 5500047713449816367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetWaterfall_5
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 300
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2199baf922f60890800000000000000
+      internalID: -7492034667970195156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetWaterfall_6
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 300
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73d2f72f3bdfaef0800000000000000
+      internalID: -94616002851843202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetWaterfall_7
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 300
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb9874d47d27abb0800000000000000
+      internalID: -4924917687702217745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
